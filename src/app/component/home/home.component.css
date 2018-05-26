@@ -1,0 +1,40 @@
+img {
+    border-radius: 50%;
+    width: 150px;
+    border-style: solid;
+    border-color: #1c405e;
+    border-width: 2px;
+}
+mat-card{
+  background-color: #234c6d;
+  color: #ffd343;
+}
+.example-icon {
+    padding: 0 14px;
+}
+.spacer {
+    flex: 1 1 auto;
+}
+p{
+  height: 150px;
+  font-weight: 500;
+  color: rgb(233, 230, 230);
+}
+.card-container{
+  width: 311px;
+  margin: 0px auto;
+  padding: 0px auto;
+}
+.desc-container{
+  margin-top: 40px; 
+  text-align: center;
+}
+h1{
+  padding: 0px;
+  margin: 0px;
+}
+h3{
+  padding: 0px;
+  margin: 0px;
+  color: rgb(233, 230, 230);
+}
